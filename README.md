@@ -85,7 +85,7 @@ https://learn.microsoft.com/en-us/training/?wt.mc_id=studentamb_340306
 
 https://social.msdn.microsoft.com/?wt.mc_id=studentamb_340306
 
-https://social.technet.microsoft.com/?wt.mc_id=studentamb_271276
+https://social.technet.microsoft.com/?wt.mc_id=studentamb_340306
 
 https://www.microsoft.com/startups?wt.mc_id=studentamb_340306
 
